@@ -1,0 +1,53 @@
+body {
+    margin: 0%;
+    background-color: rgb(243, 250, 250);
+}
+
+div {
+    width: 80%;
+    padding: 5px;
+    margin: 20px;
+}
+
+.cabecalho { 
+    width: 80%;
+
+}
+
+.cabecalho a {
+    text-decoration: none;
+}
+
+.cabecalho li{
+    display: inline-block;
+    list-style: none;
+    padding: 16px;
+}
+.menu{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho ul{
+    text-align: center;
+    margin: 0;
+}
+
+.cabecalho li:hover{
+    background-color: rgba(201, 204, 207, 0.144);
+}
+
+.box {
+    display: inline-block;
+}
+
+.box1 {
+    display: inline-block;
+    padding-right: 50%;
+}
+
+.box{
+    padding-left: 30%; 
+    border: 1px;
+}
+
